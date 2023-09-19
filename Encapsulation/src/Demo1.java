@@ -33,7 +33,7 @@ public class Demo1 {
 		s.setCity("bangalore");
 		
 		System.out.println(s.getAge()+"  "+s.getName()+"  "+s.getCity());
-
+System.out.println("hi");
 	}
 
 }
